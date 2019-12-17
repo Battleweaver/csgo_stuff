@@ -1,2 +1,2 @@
 # csgo_stuff
-useful things for Countestrike: Global Offensive
+plugin code sample + useful things for Countestrike: Global Offensive
